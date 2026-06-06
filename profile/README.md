@@ -16,7 +16,8 @@ Our approach combines the agility of a modern tech company with the rigor of ent
 
 | Division | Focus | GitHub |
 |---|---|---|
-| **BrazilCo** (this org) | Corporate engineering, cross-cutting standards, shared libraries, and governance | [github.com/BrazilCo](https://github.com/BrazilCo) |
+| **BrazilCo** (this org) | Product engineering, cross-cutting standards, and centralized governance | [github.com/BrazilCo](https://github.com/BrazilCo) |
+| **BrazilCo Platforms** | Cloud infrastructure, CI/CD, security, and platform reliability | [github.com/brazilco-platforms](https://github.com/brazilco-platforms) |
 | **BrazilCo AI Platform** | AI infrastructure, LLMs, ML pipelines, autonomous agents, and intelligent systems | [github.com/brazilco-ai-platform](https://github.com/brazilco-ai-platform) |
 
 ---
@@ -35,7 +36,7 @@ Our approach combines the agility of a modern tech company with the rigor of ent
 
 ## 🔐 Governance & Standards
 
-BrazilCo sets the cross-organizational standards that all engineering divisions follow:
+BrazilCo is the home of **centralized governance** — the cross-organizational standards that every engineering division follows. ADRs, runbooks, policies, and platform standards live in **[BrazilCo/governance](https://github.com/BrazilCo/governance)**.
 
 - **Security policy** — mandatory 2FA, fine-grained access control, and audit trails across all orgs
 - **CI/CD standards** — unified pipeline patterns and approved GitHub Actions across the enterprise

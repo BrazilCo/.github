@@ -1,35 +1,46 @@
-# 🇧🇷 BrazilCo
+# BrazilCo
 
-**Brazilian AI & Technology company building intelligent solutions for the future.**
-
----
-
-## 🚀 About Us
-
-BrazilCo is a technology company focused on developing cutting-edge AI-powered solutions. We build robust, scalable, and intelligent systems designed to solve real-world challenges across industries.
-
-- 🤖 **Artificial Intelligence** — Machine learning, LLMs, and intelligent automation
-- ☁️ **Cloud & DevOps** — CI/CD pipelines, infrastructure as code, and cloud-native architecture
-- 🔐 **Security First** — Enterprise-grade security standards in every solution we build
-- 📊 **Data & Analytics** — Transforming data into actionable insights
+> Brazilian software engineering and technology company — delivering enterprise-grade digital solutions through specialized engineering divisions.
 
 ---
 
-## 🛠️ Tech Stack
+## 🏛️ About BrazilCo
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+BrazilCo is a Brazilian technology company that designs and delivers **end-to-end digital solutions** for businesses at any scale. We operate through focused engineering divisions, each with deep specialization in its domain, united by a shared commitment to quality, security, and long-term value.
+
+Our approach combines the agility of a modern tech company with the rigor of enterprise software engineering — shipping production-grade systems that clients can rely on.
 
 ---
 
-## 📌 Featured Projects
+## 🗂️ Our Divisions
 
-| Repository | Description |
-|---|---|
-| Coming soon | Stay tuned for our public releases |
+| Division | Focus | GitHub |
+|---|---|---|
+| **BrazilCo** (this org) | Corporate engineering, cross-cutting standards, shared libraries, and governance | [github.com/BrazilCo](https://github.com/BrazilCo) |
+| **BrazilCo AI Platform** | AI infrastructure, LLMs, ML pipelines, autonomous agents, and intelligent systems | [github.com/brazilco-ai-platform](https://github.com/brazilco-ai-platform) |
+
+---
+
+## 🎯 What We Stand For
+
+**Reliable delivery** — we ship systems that work in production, not just in demos.
+
+**Engineering discipline** — architecture decisions, code quality, and security practices are non-negotiable at every level of the stack.
+
+**Brazilian roots, global standards** — built in Brazil, designed to compete globally. We hold our work to the highest international engineering standards while ensuring compliance with Brazilian regulation and data sovereignty requirements.
+
+**Long-term thinking** — we build for maintainability, scalability, and evolution. No shortcuts that create tomorrow's problems.
+
+---
+
+## 🔐 Governance & Standards
+
+BrazilCo sets the cross-organizational standards that all engineering divisions follow:
+
+- **Security policy** — mandatory 2FA, fine-grained access control, and audit trails across all orgs
+- **CI/CD standards** — unified pipeline patterns and approved GitHub Actions across the enterprise
+- **Code quality** — shared linting, testing, and review standards applied consistently
+- **Compliance** — alignment with LGPD and enterprise data handling requirements
 
 ---
 
@@ -41,4 +52,4 @@ BrazilCo is a technology company focused on developing cutting-edge AI-powered s
 
 ---
 
-<p align="center">Made with ❤️ in Brazil 🇧🇷</p>
+<p align="center">Built with discipline. Delivered with confidence. 🇧🇷</p>

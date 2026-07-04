@@ -1,5 +1,7 @@
 # BrazilCo
 
+![BrazilCo](https://img.shields.io/badge/BrazilCo-Produto%20%2B%20Governanca-2563EB?style=for-the-badge)
+
 > Brazilian software engineering and technology company — delivering enterprise-grade digital solutions through specialized engineering divisions.
 
 ---
